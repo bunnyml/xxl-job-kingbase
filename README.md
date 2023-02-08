@@ -1,5 +1,10 @@
 # xxl-job-kingbase
 基于xxl-job 2.3.1兼容kingbaseV8R3版本
+**使用说明**
+```
+在application.properties中支持MySQL与kingbase的自由切换
+需要修改mybatis.mapper-locations以及下方的数据源链接
+```
 
 **1、版本信息**
 ```
