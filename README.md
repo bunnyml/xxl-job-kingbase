@@ -1,6 +1,5 @@
 # xxl-job-kingbase
 基于xxl-job 2.3.1兼容kingbaseV8R3版本
-​
 **1、版本信息**
 ```
 xxl-job：2.3.1
